@@ -1,2 +1,2 @@
 This a to check merge confictfiles
-merge confict in dev branch
+merge confict in DEV branch
